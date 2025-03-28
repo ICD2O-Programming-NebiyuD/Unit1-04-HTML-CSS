@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-    background-color: rgb(rgb(119, 55, 192), green, blue);
+    background-color: rgb(rgb(190, 36, 36), rgb(209, 37, 37)2), rgb(255, 0, 55));
     color: hsl(hue, saturation, lightness);
     padding: 40px;
     text-align: center;
 }
 
 p {
-    background-color: cornflowerblue;
+    background-color: rgb(214, 252, 0);
 }
